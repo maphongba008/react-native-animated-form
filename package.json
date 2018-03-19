@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-form",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Animated form for both Android and iOS",
   "main": "index.js",
   "scripts": {

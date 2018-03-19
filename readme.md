@@ -8,6 +8,9 @@ Animated form for both Android and iOS
 npm install --save react-native-animated-form
 ```
 
+## Demo
+![](https://raw.githubusercontent.com/maphongba008/react-native-animated-form/master/anim.gif)
+
 ## Usage
 
 ```javascript
