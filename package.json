@@ -1,0 +1,33 @@
+{
+  "name": "react-native-animated-form",
+  "version": "0.0.4",
+  "description": "Animated form for both Android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maphongba008/react-native-animated-form.git"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.9"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "native",
+    "animated",
+    "form"
+  ],
+  "author": "aaron_ta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maphongba008/react-native-animated-form/issues"
+  },
+  "homepage": "https://github.com/maphongba008/react-native-animated-form#readme"
+}
