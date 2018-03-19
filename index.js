@@ -20,7 +20,10 @@ export default class AnimatedForm extends React.PureComponent {
                 useNativeDriver: true
             })
         });
-        Animated.stagger(this.props.delay, animated).start();
+        Animated.stagger(this.props.delay, animated).start(() => {
+            // fix text input opacity was set to 0
+            this.forceUpdate();
+        });
     }
 
     render() {
